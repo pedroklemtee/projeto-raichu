@@ -260,9 +260,9 @@ body{
     
     /* Additional styles for task items in the list */
     .task-item {
-        box-shadow: 5px 5px 11px 0px rgba(0, 0, 0, 0.48);
-    -webkit-box-shadow: 5px 5px 11px 0px rgba(0,0,0,0.48);
-    -moz-box-shadow: 5px 5px 11px 0px rgba(0,0,0,0.48);
+        box-shadow: 5px 5px 11px 0px rgba(0, 0, 0, 0.30);
+    -webkit-box-shadow: 5px 5px 11px 0px rgba(0,0,0,0.30);
+    -moz-box-shadow: 5px 5px 11px 0px rgba(0,0,0,0.30);
         transition:  0.3s ease-in-out;
         font-family: inter;
         font-weight: 500;
