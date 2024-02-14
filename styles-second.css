@@ -140,3 +140,27 @@ span{
     border: solid 2px #ffffff;
 }
 
+@media (max-width: 1020px){
+    .footer-main{
+        text-align: center;
+        position: static;
+    }
+
+    .container-mid{
+        flex-direction: column;
+    }
+
+    .pedro-text > p {
+        margin: 0 1rem 0 1rem;
+        font-size: 14px;
+    }
+
+    .eduardo-text > p{
+        font-size: 14px;
+        margin: 0 1rem 0 1rem;
+    }
+
+    .page-bottom > a {
+        margin: 3% 0 5% 0;
+    }
+}
