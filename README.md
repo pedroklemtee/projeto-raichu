@@ -12,7 +12,7 @@ O **Shock Task** é um projeto inovador que exploramos para aprimorar nossas hab
 
 ## Desafios Superados
 
-Explorando novos territórios na programação, nos deparamos com desafios intrigantes, como lidar com a responsividade da aplicação e resolver problemas complexos com JavaScript. Estes obstáculos foram oportunidades valiosas para nosso crescimento profissional.
+Explorando novos territórios na programação, nos deparamos com desafios intrigantes, como lidar com a responsividade da aplicação e resolver problemas complexos com JavaScript. Estes obstáculos foram oportunidades valiosas para nosso crescimento profissional
 
 ## Aprendizados
 
